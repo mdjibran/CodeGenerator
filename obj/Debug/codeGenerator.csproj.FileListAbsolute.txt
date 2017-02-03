@@ -1,0 +1,4 @@
+D:\JIBRAN\Applications\codeGenerator\codeGenerator\bin\codeGenerator.dll
+D:\JIBRAN\Applications\codeGenerator\codeGenerator\bin\codeGenerator.pdb
+D:\JIBRAN\Applications\codeGenerator\codeGenerator\obj\Debug\codeGenerator.dll
+D:\JIBRAN\Applications\codeGenerator\codeGenerator\obj\Debug\codeGenerator.pdb
